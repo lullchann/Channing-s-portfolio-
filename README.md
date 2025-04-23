@@ -56,10 +56,7 @@ index_html = """
       <p>A mobile concept that gamifies plant care with cute icons, user tracking, and digital garden vibes.</p>
     </div>
 
-    <div class="project">
-      <h3>The Imaginarium</h3>
-      <p>A personal storytelling-themed site featuring whimsical layouts and scroll-triggered animations.</p>
-    </div>
+
   </section>
 
   <section id="service">
