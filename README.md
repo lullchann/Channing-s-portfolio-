@@ -71,7 +71,7 @@ index_html = """
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: <a href="mailto:channingwilliams@email.com">channingwilliams@email.com</a></p>
+    <p>Email: <a href="mailto:cewilliams25@desu.edu">channingwilliams@email.com</a></p>
   </section>
 
   <footer>
